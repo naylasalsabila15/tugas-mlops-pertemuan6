@@ -1,0 +1,6 @@
+.venv/
+mlartifacts/
+mlruns/
+mlflow.db
+__pycache__/
+*.pkl
